@@ -1,5 +1,5 @@
 # Flower Species Prediction
 
-![]("images/cover.png")
+![](images/cover.png)
 
-![]("images/model.png")
+![](images/model.png)
