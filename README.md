@@ -1,1 +1,5 @@
-# flower_species_prediction_from_image
+# Flower Species Prediction
+
+![]("cover.png")
+
+![]("model.png")
