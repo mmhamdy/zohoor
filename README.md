@@ -1,7 +1,7 @@
 # Flower Species Prediction
 
-![](images/cover.png)
+![cover image](images/cover.png)
 
 A CLI application that predicts flower species from image
 
-![](images/model.png)
+![model architecture](images/model.png)
